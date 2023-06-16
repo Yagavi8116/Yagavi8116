@@ -7,11 +7,12 @@ A software engineering student from India.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagavi8116" alt="yagavi8116" /></a> </p>
 
-- ⚡ Fun fact **I am an extrovert.😁**
+- 📫 How to reach me *yagavikarthikeyan@gmail.com*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/__yagavi_k__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yagavi_k__" height="30" width="40" /></a>
+<a href="https://instagram.com/yagavi_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yagavi_k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
