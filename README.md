@@ -41,7 +41,7 @@ Hi, I'm Yagavi! A passionate and motivated software engineer from India with a k
 ---
 
 ### 🌟 Achievements  
-- 🏆 **Merit Scholarship** - 10th Rank in M.Tech (Integrated) Software Engineering at VIT Vellore (2024)  
+- 🏆 **Merit Scholarship** - 5th Rank in M.Tech (Integrated) Software Engineering at VIT Vellore (2025)  
 - 🥇 **First Prize in Code-a-thon** - Biometric Solutions (Apr 2024)  
 
 ---
