@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me  
-Hi, I'm Yagavi! A passionate software engineering student from India with a keen interest in AI, machine learning, and web development. I love building innovative solutions that make a difference.  
+Hi, I'm Yagavi! A passionate and motivated software engineer from India with a keen interest in AI, machine learning, and web development. I love building innovative solutions that make a difference.  
 
 ---
 
